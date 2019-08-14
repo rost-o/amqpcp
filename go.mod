@@ -1,4 +1,4 @@
-module amqpcp
+module github.com/rost-o/amqpcp
 
 go 1.12
 
