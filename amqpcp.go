@@ -8,10 +8,11 @@ package amqpcp
 
 import (
 	"errors"
-	"github.com/streadway/amqp"
 	"log"
 	"sync"
 	"sync/atomic"
+
+	"github.com/streadway/amqp"
 )
 
 // Error / Text definition
